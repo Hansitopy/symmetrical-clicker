@@ -1,0 +1,1 @@
+To set up the autoclicker you will need to do 2 simple steps 1.Go to terminal 2.Write pip install pynput Yep thats all know just run the autoclicker code
